@@ -5,7 +5,7 @@ from os import environ
 import numpy
 import pylab
 
-s = pynbody.load('g15784.lr.01024.gz')
+s = pynbody.load('data/g15784.lr.01024.gz')
 
 print '---------------'
 print 'STATS FOR ALL TEST DATA'
